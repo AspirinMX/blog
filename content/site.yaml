@@ -1,0 +1,33 @@
+title: "AspirinMX"
+subtitle: "全栈工程师 · 杭州"
+author: "AspirinMX"
+description: "AspirinMX 的个人技术博客，全栈开发、系统架构与工程实践记录。"
+url: "https://example.com"
+language: "zh-CN"
+footerNote: "以思源宋体与纯静态构建"
+
+socials:
+  - label: "GitHub"
+    href: "https://github.com/AspirinMX"
+  - label: "LinuxDo"
+    href: "https://linux.do/u/AspirinMX"
+  - label: "X"
+    href: "https://x.com/Aspirin0xff"
+  - label: "Email"
+    href: "mailto:aspirinmx@163.com"
+  - label: "RSS"
+    href: "/rss.xml"
+
+giscus:
+  enabled: true
+  repo: ""
+  repoId: ""
+  category: "Announcements"
+  categoryId: ""
+  mapping: "pathname"
+  strict: "0"
+  reactionsEnabled: "1"
+  emitMetadata: "0"
+  inputPosition: "bottom"
+  theme: "light"
+  lang: "zh-CN"
